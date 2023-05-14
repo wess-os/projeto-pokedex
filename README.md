@@ -4,7 +4,7 @@
 Veja o site em funcionamento: https://werlao.github.io/projeto-pokedex/
 
 <h3>🧾 Descrição</h3>
-<h4>Um projeto onde é apresentado dados sobre pokemon, com uma interface moderna e agradável, com opção de modo escuro integrado.</h4>
+Um projeto onde é apresentado dados sobre pokemon, com uma interface moderna e agradável, com opção de modo escuro integrado.
 
 <h3>💻 Tecnologias utilizadas:</h3>
 HTML, CSS and JS
